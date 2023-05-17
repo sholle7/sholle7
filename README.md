@@ -1,4 +1,4 @@
-### Hello, I'm Luka!👋 🧑‍💻
+# Hello, I'm Luka!👋 🧑‍💻
 I am a passionate and aspiring software engineering student!
 
 ## Stats
