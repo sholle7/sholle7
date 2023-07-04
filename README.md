@@ -28,5 +28,6 @@ I am a passionate and aspiring software engineering student!
 <code><img height="50" alt="react" src="https://cdn.svgporn.com/logos/react.svg"></code>
 <code><img height="50" alt="angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
 <code><img height="50" alt="nodejs" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></code>
+<code><img height="50" alt="postgresql" src="https://cdn.svgporn.com/logos/postgresql.svg"></code>
 <code><img height="50" alt="mongodb" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"></code>
 <code><img height="50" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
