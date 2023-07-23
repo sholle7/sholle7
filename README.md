@@ -1,5 +1,5 @@
 # Hello, I'm Luka!👋 🧑‍💻
-I am a passionate and aspiring software engineering student!
+I am a passionate and aspiring software engineer!
 
 ## Stats
 <a href="https://github.com/sholle7/github-readme-stats#gh-dark-mode-only">
