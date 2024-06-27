@@ -4,7 +4,7 @@
 
 ![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sholle7&theme=omni&show_icons=true)
 
-![Luka's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&hide_border=true&bg_color=00000000&langs_count=6)
+![Luka's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&theme=omni&hide_border=true&bg_color=00000000&langs_count=6)
 
 <br />
 
