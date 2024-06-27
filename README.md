@@ -2,10 +2,16 @@
 
 ## Stats
 
-<div style="display: flex; justify-content: center; align-items: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sholle7&theme=omni&show_icons=true" alt="Luka's GitHub stats" style="width: 50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&hide_border=true&bg_color=00000000&langs_count=6" alt="Luka's Languages stats" style="width: 50%;">
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sholle7&theme=omni&show_icons=true" alt="Luka's GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&hide_border=true&bg_color=00000000&langs_count=6" alt="Luka's Languages stats" />
+    </td>
+  </tr>
+</table>
 
 <br />
 
