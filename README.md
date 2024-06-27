@@ -2,7 +2,7 @@
 
 ## Stats
 
-![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=sholle7&theme=omni&show_icons=true)
 
 <a href="https://github.com/sholle7/github-readme-stats#gh-dark-mode-only">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=codeSTACKr&hide_border=true&bg_color=00000000&langs_count=6#gh-dark-mode-only" /> </a>
