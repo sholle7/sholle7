@@ -9,8 +9,8 @@
 
 <br />
 
-
 ## Tech Stack
+
 <code><img height="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
 <code><img height="50" alt="c#" src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>
 <code><img height="50" alt="c++" src="https://cdn.svgporn.com/logos/c-plusplus.svg"></code>
