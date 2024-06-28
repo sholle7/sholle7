@@ -2,7 +2,7 @@
 
 ## Stats
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none !important; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api?username=sholle7&theme=omni&show_icons=true" alt="Luka's GitHub stats" />
