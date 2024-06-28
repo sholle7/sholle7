@@ -2,12 +2,12 @@
 
 ## Stats
 
-<table style="border: none !important; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; width: 50%;">
+<table>
+  <tr>
+    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sholle7&theme=omni&show_icons=true" alt="Luka's GitHub stats" />
     </td>
-    <td style="border: none; width: 50%;">
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&langs_count=6" alt="Luka's Languages stats" />
     </td>
   </tr>
