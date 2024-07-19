@@ -2,8 +2,8 @@
 
 ## Stats
 
-<div>
-    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&langs_count=6" alt="Luka's Languages stats" style="width: 50%" />
+<div style="display: flex !important; align-items: center !important; justift-content: center !important">
+    <imgsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&langs_count=6" alt="Luka's Languages stats" style="width: 50%" />
 </div>
 
 <br />
