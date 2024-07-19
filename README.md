@@ -2,8 +2,8 @@
 
 ## Stats
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&langs_count=6" alt="Luka's Languages stats" style="width:80%" />
+<div style="display: flex; justify-content: center; width: 100%; max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&langs_count=6" alt="Luka's Languages stats" style="max-width: 100%; height: auto;" />
 </div>
 
 <br />
