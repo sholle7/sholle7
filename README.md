@@ -2,11 +2,9 @@
 
 ## Stats
 
-<table>
-  <tr>
-    <td valign="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&langs_count=6" alt="Luka's Languages stats" /> </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&langs_count=6" alt="Luka's Languages stats" />
+</p>
 
 <br />
 
