@@ -1,13 +1,5 @@
 # Hello!👋 🧑‍💻
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholle7&layout=compact&theme=omni&langs_count=6" alt="Luka's Languages stats" />
-</p>
-
-<br />
-
 ## Tech Stack
 
 <code><img height="50" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
